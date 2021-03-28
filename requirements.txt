@@ -1,0 +1,4 @@
+discord
+datetime
+requests
+discord.py[voice]
